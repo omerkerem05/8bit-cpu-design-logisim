@@ -47,7 +47,9 @@ Final integrated processor containing all modules.
 
 ## CPU Architecture
 
+### CPU
 ![CPU Architecture](images/cpu.png)
+### Register
 ![Register Architecture](images/register.png)
 
 ---
