@@ -65,7 +65,7 @@ Final integrated processor containing all modules.
 
 ## Technologies Used
 
-- Logisim Evolution
+- Logisim
 
 ---
 
