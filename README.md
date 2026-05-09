@@ -1,4 +1,4 @@
-# 8-Bit CPU in Logisim Evolution
+# 8-Bit CPU in Logisim
 
 A custom-designed 8-bit CPU built entirely in Logisim Evolution.
 
@@ -101,19 +101,3 @@ Final integrated processor containing all modules.
 - Learning digital logic design
 - Simulating low-level CPU operations
 - Building a processor from basic components
-
----
-
-## Future Improvements
-
-- Expanded instruction set
-- Assembly language support
-- Stack operations
-- Interrupt handling
-- Pipeline architecture experiments
-
----
-
-## License
-
-MIT License
